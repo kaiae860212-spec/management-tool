@@ -1,0 +1,15 @@
+{
+  "name": "Quick Memo",
+  "short_name": "Memo",
+  "start_url": "./memo-widget.html",
+  "display": "standalone",
+  "background_color": "#111827",
+  "theme_color": "#0f172a",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'%3E%3Ccircle cx='256' cy='256' r='250' fill='%231e3a5f'/%3E%3Cpath d='M180 360V170h30v190h-30zM230 170h100v25H260v55h60v25h-60v55h70v25H230V170z' fill='white'/%3E%3C/svg%3E",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
